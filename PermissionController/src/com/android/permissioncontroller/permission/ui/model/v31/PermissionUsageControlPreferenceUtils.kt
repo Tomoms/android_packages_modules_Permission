@@ -31,6 +31,7 @@ import com.android.permissioncontroller.PermissionControllerStatsLog.PERMISSION_
 import com.android.permissioncontroller.R
 import com.android.permissioncontroller.permission.ui.ManagePermissionsActivity
 import com.android.permissioncontroller.permission.utils.KotlinUtils
+import com.android.permissioncontroller.permission.utils.PermissionMapping
 import com.android.permissioncontroller.permission.utils.StringUtils
 
 @RequiresApi(Build.VERSION_CODES.S)
